@@ -1,0 +1,35 @@
+_repo: Modern-Painting_8162
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painting'
+tableOfContents: 'Whistler -- Chavannes, Millet, and Manet -- The failure of the nineteenth
+  century -- Artistic education in France and England -- Ingres and Corot -- Monet,
+  Sisley, Pissaro, and the decadence -- Our academicians -- The organisation of art
+  -- Art and science -- Royalty in art -- Art patrons -- Picture dealers -- Mr. Burne-Jones
+  and the Academy -- The alderman in art -- Religiosity in art -- The camera in art
+  -- The new English art club -- A great artist [Charles Keene] -- Nationality in
+  art -- Sex in art -- Mr. Steer''s exhibition -- Claude Monet -- Notes: Mr. Mark
+  Fisher. A portrait by Mr. Sargent. An orchid by Mr. James. The Whistler album. Ingres
+  -- Some Japanese prints -- The new art criticism -- Long ago in Italy.'
+title: Modern Painting
+url: http://www.gutenberg.org/ebooks/8162
